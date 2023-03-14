@@ -45,6 +45,7 @@ const server = http.createServer((req, res) => {
 
     return;
   }
+
   // case "/products":
   //   res.setHeader("Content-Type", "text/html");
   //   let modifiedIndex = index
